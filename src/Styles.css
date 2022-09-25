@@ -1,0 +1,18 @@
+.btn,
+.jumbotron,
+.nav:hover{
+    border-radius: 0px;
+}
+body{
+    background: #343a40;
+}
+.newBg{
+    background:#538FFB #5B54FA;
+}
+footer{
+    /* position: absolute; */
+    bottom: 0px;
+    left: 0px;
+    right: 0px;
+    
+}
